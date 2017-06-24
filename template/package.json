@@ -1,7 +1,7 @@
 {
   "name": "{NAME}",
   "version": "0.1.0",
-  "description": "{DISCRIPTION}",
+  "description": "{DESCRIPTION}",
   "main": "index.js",
   "repository": "https://github.com/kaliumxyz/{NAME}",
   "author": "kalium",
