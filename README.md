@@ -10,8 +10,8 @@ $ git clone https://github.com/kaliumxyz/default.git
 
 ## usage
 Simply run it :D!
-```js
-const default = require('default')
+```
+$ node .
 ```
 
 ## tests
